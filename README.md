@@ -25,3 +25,7 @@
 ---
 ### GitHub info
 [![stats](https://github-readme-stats.vercel.app/api?username=nikappa57&theme=blue-green)](https://github.com/Nikappa57) [![language](https://github-readme-stats.vercel.app/api/top-langs/?username=nikappa57&theme=blue-green)](https://github.com/Nikappa57)
+
+---
+### 42 School Stats
+[![lgaudino's 42 stats](https://badge42.vercel.app/api/v2/cld6lomfp00250fl5aqiuznp2/stats?cursusId=21&coalitionId=124)](https://github.com/JaeSeoKim/badge42)
